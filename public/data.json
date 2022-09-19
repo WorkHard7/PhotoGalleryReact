@@ -1,10 +1,10 @@
 {
   "categories": [
-    { "name": "Все" },
-    { "name": "Море" },
-    { "name": "Горы" },
-    { "name": "Архитектура" },
-    { "name": "Города" }
+    { "name": "All" },
+    { "name": "Sea" },
+    { "name": "Mountains" },
+    { "name": "Architecture" },
+    { "name": "Cities" }
   ],
   "collections": [
     {
