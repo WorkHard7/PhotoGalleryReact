@@ -14,7 +14,7 @@ function App() {
   const [collections, setCollections] = useState([]);
   const [searchValue, setSearchValue] = useState("");
   const [categoryId, setCategoryId] = useState(0);
-  const [page, setPage] = useState(0);
+  const [page, setPage] = useState(1);
   const [isLoading, setIsLoading] = useState(false);
 
   const category = categoryId ? `category=${categoryId}` : "";
